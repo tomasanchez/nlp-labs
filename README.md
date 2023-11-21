@@ -3,6 +3,10 @@
 This repository contains the code resolutions for the Natural Language Processing (NLP) course
 at [National Technological University, Buenos Aires Regional Faculty](https://www.frba.utn.edu.ar/).
 
+## Labs
+
+* [Lab I](lab-1.ipynb): NLTK and counting corpus vocabulary.
+
 ## License
 
 This project is licensed under the terms of the MIT license unless otherwise specified. See [`LICENSE`](LICENSE) for
